@@ -1,4 +1,4 @@
-<h1 align="center"> 법률 지식 그래프 구축해보기 </h1>
+<h1 align="center"> [BLIND] 법률 지식 그래프 구축해보기 </h1>
 
 <div align="center">
 <a href="https://pseudo-lab.com"><img src="https://img.shields.io/badge/PseudoLab-S13-3776AB" alt="PseudoLab"/></a>
